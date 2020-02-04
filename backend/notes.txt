@@ -1,0 +1,8 @@
+ stands for cross origin resource sharing, this allows AJAX request to skip
+      the same origin plich and access resources from remote hosts
+
+cors: It is express middleware that can enable cores with different options.
+      This is going to access easely something outside of our server from
+      our server.
+.env: Loads environment variables from .env file into process .env
+      This makes development simpler
